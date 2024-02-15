@@ -1,4 +1,5 @@
 # Data-Analyst-Project-Identifying-and-Recommending-Best-Restaurants-Python
+**Dashboard Link:** https://public.tableau.com/app/profile/tanviben.vicky.rajput/viz/IdentifyingandRecommendingBestRestaurants_17080111357700/IdentifyingandRecommendingBestRestaurants?publish=yes
 # Project Objective
 
 The objective of this project is to leverage Python for data analysis and tableau for visualization to identify and recommend the best restaurants in a given area. The project aims to extract insights from a dataset containing information about various restaurants, including customer reviews, ratings, cuisine types, and other relevant attributes. By employing advanced data analysis techniques, the goal is to develop a recommendation system that assists users in selecting the most suitable dining options based on their preferences.
